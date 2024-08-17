@@ -1,7 +1,3 @@
-Got it! Here's a revised README file tailored for an SQL learning repository:
-
----
-
 # SQL Learning Journey
 
 Welcome to my SQL Learning Journey repository! This repository is dedicated to documenting my progress and daily updates as I enhance my SQL skills. The resources and exercises included are intended to support others in their SQL learning endeavors.
@@ -30,11 +26,3 @@ You are welcome to contribute by:
 1. **Submitting Issues:** Report any issues or suggest improvements.
 2. **Pull Requests:** Add new resources, correct errors, or improve content.
 3. **Feedback:** Provide suggestions or share your own SQL learning experiences.
-
-## 📬 Contact
-
-For questions or suggestions, please contact me at [your-email@example.com].
-
----
-
-Feel free to adjust any sections or add additional details as needed!
